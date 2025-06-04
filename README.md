@@ -1,5 +1,6 @@
-# 
-## Author: Yupei lin
+## Fine-scale Spatial heterogeneity of tumor microenvironment revealed by Imaging Mass Cytometry data![image](https://github.com/user-attachments/assets/dc667e95-a9de-463d-b03d-5173e4995c58)
+ 
+# Author: Yupei lin
 # File ITH-main: Main functions for ITH calculation 
 
 ## This code can be used to generate the ITH scores for each of cell subpopulation 
